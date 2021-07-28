@@ -34,6 +34,10 @@
             {
               "type": "minecraft:item",
               "name": "endercrop:ender_seeds"
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:ender_eye"
             }
           ]
         }
