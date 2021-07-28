@@ -29,15 +29,11 @@
                   }
                 }
               ],
-              "name": "minecraft:ender_pearl"
+              "name": "minecraft:ender_eye"
             },
             {
               "type": "minecraft:item",
               "name": "endercrop:ender_seeds"
-            },
-            {
-              "type": "minecraft:item",
-              "name": "minecraft:ender_eye"
             }
           ]
         }
